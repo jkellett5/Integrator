@@ -1,0 +1,5 @@
+﻿  unittest1.cpp
+c:\users\justin\documents\github\aidriver\integrator_ai\integrator_ai\mathnode.cpp(148): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\justin\documents\github\aidriver\integrator_ai\integrator_ai\mathnode.cpp(161): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MathNodeTest.vcxproj -> C:\Users\Justin\Documents\Github\AiDriver\Integrator_AI\Debug\MathNodeTest.dll
+  MathNodeTest.vcxproj -> C:\Users\Justin\Documents\Github\AiDriver\Integrator_AI\Debug\MathNodeTest.pdb (Partial PDB)

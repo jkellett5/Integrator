@@ -1,0 +1,10 @@
+﻿  unittest1.cpp
+c:\users\justin\documents\github\aidriver\integrator_ai\mathnodetest\unittest1.cpp(116): warning C4551: function call missing argument list
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\Justin\Documents\Github\AiDriver\Integrator_AI\Release\MathNodeTest.lib and object C:\Users\Justin\Documents\Github\AiDriver\Integrator_AI\Release\MathNodeTest.exp
+  Generating code
+  2 of 536 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MathNodeTest.vcxproj -> C:\Users\Justin\Documents\Github\AiDriver\Integrator_AI\Release\MathNodeTest.dll
